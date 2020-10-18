@@ -1,0 +1,1 @@
+scoreboard objectives add start_raid trigger
